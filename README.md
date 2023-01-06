@@ -2,7 +2,7 @@
 
 Welcome to my Page
 
-- 🔭 I’m currently working Web Development
+- 🔭 I’m currently working on Web Development
 - 🌱 I’m currently studying Information Technnology
 
 <!--
