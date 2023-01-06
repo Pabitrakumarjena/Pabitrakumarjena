@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Welcome to my Page
+
+- 🔭 I’m currently working Web Development
+- 🌱 I’m currently studying Information Technnology
+
 <!--
 **Pabitrakumarjena/Pabitrakumarjena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
